@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Ignore the external asset folders
+/Assets/Assets/_External Assets/
+/Assets/Assets/_External Assets.meta
